@@ -1,5 +1,6 @@
 #All images file path should be changed else it wont work
 #Images are uploaded under Images folder under main
+#Report if any bugs found
 import pygame
 import math
 from pygame.locals import*
