@@ -1,2 +1,2 @@
-#Game Developed using python
+Game Developed using python
 
