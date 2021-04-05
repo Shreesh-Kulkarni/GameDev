@@ -1,2 +1,2 @@
-# Project-1-Shooter-Game
-Linked Repo for project 1
+Game Developed using python
+
