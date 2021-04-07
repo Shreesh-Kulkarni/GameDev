@@ -24,26 +24,26 @@ badtimer1=0
 enemies=[[640,100]]
 healthvalue= 194
 #3loading images
-player= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\IITB2.jpg")
+player= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\iman.jpg")
 player1=pygame.image.load(player)
 enemy= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\thanos.jpg")
 enemy1= pygame.image.load(enemy)
 enemy2=enemy1
 #showing health of defendant
-health= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\images1.jpg")
+health= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\HBar.jpg")
 health1=pygame.image.load(health)
 #showing game over display
-gover= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\RON1.jpg")
+gover= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\Loss.jpg")
 gover1=pygame.image.load(gover)
-ywin=os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\Ron2.jpg")
+ywin=os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\Win.jpg")
 ywin1=pygame.image.load(ywin)
 #loading weapons
-fire1= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\adv.jpg")
+fire1= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\\rep.jpg")
 fire= pygame.image.load(fire1)
 #4background
-grass= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\download1.jpg")
+grass= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\BGGrass.jpg")
 grass1= pygame.image.load(grass)
-building= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\jeeadv1.jpg")
+building= os.path.join("C:\\Users\Shreesh Kulkarni\Desktop\abc.jpg")
 building1= pygame.image.load(building)
 #5using loops
 run=1
